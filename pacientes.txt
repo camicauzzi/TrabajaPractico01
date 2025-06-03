@@ -1,0 +1,35 @@
+=== NUEVO PACIENTE ===
+Nombre: camila
+Peso: 65.0
+Altura: 1.5
+Resultado: IMC = 28.89
+=======================
+
+=== NUEVO PACIENTE ===
+Nombre: norma cauzzi
+Peso: 98.0
+Altura: 1.63
+Edad: 65
+Género: femenino
+Resultado: % Grasa corporal = 59.21%
+=======================
+
+=== NUEVO PACIENTE ===
+Nombre: federico rossi
+Peso: 87.0
+Altura: 1.9
+Edad: 45
+Género: masculino
+Resultado: TMB en reposo = 1837.50 calorías
+=======================
+
+=== NUEVO PACIENTE ===
+Nombre: rosario lo
+Peso: 78.0
+Altura: 1.85
+Edad: 25
+Género: femenino
+Nivel actividad: 3
+Resultado: TMB con actividad = 2557.89 calorías
+=======================
+
